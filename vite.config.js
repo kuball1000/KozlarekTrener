@@ -8,5 +8,5 @@ export default defineConfig({
   // Replace 'kozlarektrener' with your actual repository name if deploying to a project page
   // e.g., base: '/repo-name/'
   // If deploying to username.github.io, use base: '/'
-  base: '/kozlarektrener/',
+  base: './',
 })
