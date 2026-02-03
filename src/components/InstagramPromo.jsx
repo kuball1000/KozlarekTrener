@@ -1,11 +1,11 @@
-import { ArrowRight } from "lucide-react";
+import { Instagram, ArrowRight } from "lucide-react";
 
 const InstagramPromo = () => {
     return (
         <section className="py-16 bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] relative overflow-hidden group">
             <div className="absolute inset-0 bg-black/40 group-hover:bg-black/30 transition-colors" />
             <div className="container mx-auto px-6 relative z-10 text-center text-white">
-                <img src="/instagram.png" alt="Instagram" className="w-16 h-16 mx-auto mb-4 object-contain" />
+                <Instagram className="w-12 h-12 mx-auto mb-4" />
                 <h2 className="text-3xl md:text-4xl font-display font-bold mb-4 uppercase">
                     Dołącz do społeczności
                 </h2>
